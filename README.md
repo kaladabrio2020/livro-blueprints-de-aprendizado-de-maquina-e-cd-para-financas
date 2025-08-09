@@ -1,2 +1,2 @@
-# livro-blueprints-de-aprendizado-de-maquina-e-cd-para-financas
+# Blueprints de Aprendizado de Máquina e Ciência de Dados
 Progresso no livro Blueprints de Aprendizado de Máquina e Ciência de Dados
